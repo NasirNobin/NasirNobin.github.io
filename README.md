@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Hello World
 
-You can use the [editor on GitHub](https://github.com/NasirNobin/nobin.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hey there, this is Nobin. And I don't know how to write markdown. :3 Just trying to figure how this works..
 
 ### Markdown
 
